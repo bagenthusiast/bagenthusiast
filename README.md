@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bagenthusiast
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in full-stack development
+- 🌱 I’m currently learning HTML, CSS and JS
 - 💞️ I’m looking to collaborate on building interesting projects
-- 📫 How to reach me bag.enthusiasts@gmail.com
+- 📫 How to reach me olanipekunqudus@gmail.com@gmail.com
 
 <!---
 bagenthusiast/bagenthusiast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
